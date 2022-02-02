@@ -1,0 +1,16 @@
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\bin\Debug\net5.0\ConsoleAppDaVisualStudio.exe
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\bin\Debug\net5.0\ConsoleAppDaVisualStudio.deps.json
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\bin\Debug\net5.0\ConsoleAppDaVisualStudio.runtimeconfig.json
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\bin\Debug\net5.0\ConsoleAppDaVisualStudio.runtimeconfig.dev.json
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\bin\Debug\net5.0\ConsoleAppDaVisualStudio.dll
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\bin\Debug\net5.0\ref\ConsoleAppDaVisualStudio.dll
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\bin\Debug\net5.0\ConsoleAppDaVisualStudio.pdb
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ConsoleAppDaVisualStudio.csproj.AssemblyReference.cache
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ConsoleAppDaVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ConsoleAppDaVisualStudio.AssemblyInfoInputs.cache
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ConsoleAppDaVisualStudio.AssemblyInfo.cs
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ConsoleAppDaVisualStudio.csproj.CoreCompileInputs.cache
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ConsoleAppDaVisualStudio.dll
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ref\ConsoleAppDaVisualStudio.dll
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ConsoleAppDaVisualStudio.pdb
+E:\insiel\demos\ConsoleAppDaVisualStudio\ConsoleAppDaVisualStudio\obj\Debug\net5.0\ConsoleAppDaVisualStudio.genruntimeconfig.cache

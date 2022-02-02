@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oV/KAdKf256/tqy40mo24f8QuVAS0JckRqgxlVXbmcKHARYGJCZRthiNw7WPRZZ2oEkbw4+UglfWtU1DdPj8Iw==",
+  "success": true,
+  "projectFilePath": "E:\\insiel\\lezione01\\demos\\WebApplicationVuotaVersione5\\WebApplicationVuotaVersione5\\WebApplicationVuotaVersione5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

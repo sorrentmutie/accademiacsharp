@@ -1,0 +1,15 @@
+E:\insiel\lezione01\bin\Debug\net6.0\lezione01.exe
+E:\insiel\lezione01\bin\Debug\net6.0\lezione01.deps.json
+E:\insiel\lezione01\bin\Debug\net6.0\lezione01.runtimeconfig.json
+E:\insiel\lezione01\bin\Debug\net6.0\lezione01.dll
+E:\insiel\lezione01\bin\Debug\net6.0\ref\lezione01.dll
+E:\insiel\lezione01\bin\Debug\net6.0\lezione01.pdb
+E:\insiel\lezione01\obj\Debug\net6.0\lezione01.csproj.AssemblyReference.cache
+E:\insiel\lezione01\obj\Debug\net6.0\lezione01.GeneratedMSBuildEditorConfig.editorconfig
+E:\insiel\lezione01\obj\Debug\net6.0\lezione01.AssemblyInfoInputs.cache
+E:\insiel\lezione01\obj\Debug\net6.0\lezione01.AssemblyInfo.cs
+E:\insiel\lezione01\obj\Debug\net6.0\lezione01.csproj.CoreCompileInputs.cache
+E:\insiel\lezione01\obj\Debug\net6.0\lezione01.dll
+E:\insiel\lezione01\obj\Debug\net6.0\ref\lezione01.dll
+E:\insiel\lezione01\obj\Debug\net6.0\lezione01.pdb
+E:\insiel\lezione01\obj\Debug\net6.0\lezione01.genruntimeconfig.cache
