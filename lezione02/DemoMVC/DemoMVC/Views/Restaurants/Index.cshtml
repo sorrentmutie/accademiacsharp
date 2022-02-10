@@ -1,0 +1,27 @@
+﻿@model List<Restaurant>
+
+@*@{
+    var myIndex = 42;
+}*@
+
+<h2>Lista Ristoranti: @Model.Count</h2>
+@*<h3>@myIndex</h3>*@
+
+
+<table class="table table-bordered table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach(var ristorante in Model)
+{
+    <tr>
+        <td>@ristorante.Id</td>
+        <td>@ristorante.Nome</td>
+    </tr>
+}
+</tbody>
+</table>

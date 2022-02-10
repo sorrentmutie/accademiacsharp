@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fafa488c-019d-447e-b539-d3953bb325fc": {
+      "ProjectGuid": "fafa488c-019d-447e-b539-d3953bb325fc",
+      "DisplayName": "DemoMVC",
+      "ColorIndex": 0
+    },
+    "213c3500-51b8-4def-99af-8fec16053a10": {
+      "ProjectGuid": "213c3500-51b8-4def-99af-8fec16053a10",
+      "DisplayName": "DemoMVC.Models",
+      "ColorIndex": 1
+    },
+    "6e58d373-f27d-4e07-9d4e-bc68097b28aa": {
+      "ProjectGuid": "6e58d373-f27d-4e07-9d4e-bc68097b28aa",
+      "DisplayName": "DemoMVC.Services",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

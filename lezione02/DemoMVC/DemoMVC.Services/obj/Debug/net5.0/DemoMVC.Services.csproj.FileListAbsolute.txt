@@ -1,0 +1,14 @@
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\bin\Debug\net5.0\DemoMVC.Services.deps.json
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\bin\Debug\net5.0\DemoMVC.Services.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\bin\Debug\net5.0\ref\DemoMVC.Services.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\bin\Debug\net5.0\DemoMVC.Services.pdb
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\bin\Debug\net5.0\DemoMVC.Models.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\bin\Debug\net5.0\DemoMVC.Models.pdb
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.AssemblyInfoInputs.cache
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.AssemblyInfo.cs
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.csproj.CoreCompileInputs.cache
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.csproj.CopyComplete
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\ref\DemoMVC.Services.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.pdb

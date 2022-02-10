@@ -1,0 +1,12 @@
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\bin\Debug\net5.0\DemoMVC.Models.deps.json
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\bin\Debug\net5.0\DemoMVC.Models.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\bin\Debug\net5.0\ref\DemoMVC.Models.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\bin\Debug\net5.0\DemoMVC.Models.pdb
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\DemoMVC.Models.csproj.AssemblyReference.cache
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\DemoMVC.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\DemoMVC.Models.AssemblyInfoInputs.cache
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\DemoMVC.Models.AssemblyInfo.cs
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\DemoMVC.Models.csproj.CoreCompileInputs.cache
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\DemoMVC.Models.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\ref\DemoMVC.Models.dll
+E:\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\DemoMVC.Models.pdb
