@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jRAn+gjW34kheRqIHTLIvTKMlk63hzugnP50pPcubJbI0Wb5NW0J0qlAX0Ltq+F95LTdDgCLxaLGZsRmTxt5RA==",
+  "dgSpecHash": "s4gXLuj7wlBbhK4GoYI02ckYgwgxVhKwCmCjYzv2lDbRC0/A6Yyz4wfc14byFZy7ODbNp5L5PhaXGir2dxCbag==",
   "success": true,
-  "projectFilePath": "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj",
+  "projectFilePath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,27 +1,43 @@
-﻿@model List<Restaurant>
+﻿@model RestaurantsIndexViewModel
 
-@*@{
-    var myIndex = 42;
-}*@
 
-<h2>Lista Ristoranti: @Model.Count</h2>
-@*<h3>@myIndex</h3>*@
-
+<h2>Lista Ristoranti Aperti: @Model.OpenRestaurants</h2>
 
 <table class="table table-bordered table-striped table-hover">
     <thead>
         <tr>
             <th>Id</th>
             <th>Nome</th>
+            <th>Sedi</th>
+            <th>Recensioni</th>
+            <th>Media recensioni</th>
+            <th>Numero Pietanze</th>
+            <th>Prezzo Medio</th>
         </tr>
     </thead>
     <tbody>
-@foreach(var ristorante in Model)
+@foreach(var ristorante in Model.Restaurants)
 {
     <tr>
-        <td>@ristorante.Id</td>
-        <td>@ristorante.Nome</td>
+        <td>@ristorante.RestaurantId</td>
+        <td>@ristorante.RestaurantName</td>
+        <td>@ristorante.LocationsCount</td>
+        <td>@ristorante.ReviewsCount</td>
+        <td>@ristorante.AverageRating</td>
+        <td>@ristorante.MenuCount</td>
+        <td>@ristorante.PriceAverge</td>
     </tr>
 }
 </tbody>
 </table>
+
+
+@section Footer {
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            <p>Ultimo ristorante aggiunto</p>
+            <p>@Model.LastRestaurant.RestaurantName</p>
+            <p>@Model.LastRestaurant.Address</p>
+        </div>
+    </footer>
+}

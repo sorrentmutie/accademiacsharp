@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj": {}
+    "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj": {}
   },
   "projects": {
-    "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj": {
+    "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj",
+        "projectUniqueName": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj",
         "projectName": "DemoMVC.Models",
-        "projectPath": "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj",
+        "projectPath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj",
         "packagesPath": "C:\\Users\\salvatore\\.nuget\\packages\\",
-        "outputPath": "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\obj\\",
+        "outputPath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj": {
+    "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj",
+        "projectUniqueName": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj",
         "projectName": "DemoMVC.Services",
-        "projectPath": "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj",
+        "projectPath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\DemoMVC.Services.csproj",
         "packagesPath": "C:\\Users\\salvatore\\.nuget\\packages\\",
-        "outputPath": "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\obj\\",
+        "outputPath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -94,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj": {
-                "projectPath": "E:\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj"
+              "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj": {
+                "projectPath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoMVC.Models\\DemoMVC.Models.csproj"
               }
             }
           }
