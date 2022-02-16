@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWvGzcFHS93j4Lk8aziPID5EelRaZqd8laGgTqNrvxYPsOvtAKNSM8481adaRYyCbbxGVEWqMcOxztT961xkiQ==",
+  "success": true,
+  "projectFilePath": "E:\\corsi\\insiel\\demos\\lezione05\\HelloBlazorServer\\HelloBlazorServer\\HelloBlazorServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

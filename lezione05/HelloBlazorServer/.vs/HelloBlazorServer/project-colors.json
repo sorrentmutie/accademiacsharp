@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "637fe151-5ab8-4fa8-96b9-3d233f2dc226": {
+      "ProjectGuid": "637fe151-5ab8-4fa8-96b9-3d233f2dc226",
+      "DisplayName": "HelloBlazorServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

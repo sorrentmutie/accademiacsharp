@@ -86,3 +86,4 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.RazorTa
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.Views.pdb
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.csproj.CopyComplete
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.genruntimeconfig.cache
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\Razor\Views\Shared\Components\MyFirst\Insiel.cshtml.g.cs

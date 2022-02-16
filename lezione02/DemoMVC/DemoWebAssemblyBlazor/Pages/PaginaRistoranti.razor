@@ -1,0 +1,16 @@
+﻿@page "/paginaristoranti" 
+@inject IRestaurantsService servizio
+
+<h3>Pagina Ristoranti</h3>
+<ListaRistoranti ViewModelRistoranti="ViewModel"></ListaRistoranti>
+
+
+@code {
+    private RestaurantsIndexViewModel ViewModel;
+
+    protected override void OnInitialized()
+    {
+        ViewModel = servizio.GetIndexViewModel();
+    }
+
+}

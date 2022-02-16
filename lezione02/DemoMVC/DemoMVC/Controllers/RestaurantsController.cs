@@ -1,8 +1,10 @@
-﻿using DemoMVC.Services.Restaurants;
+﻿using DemoMVC.Filters;
+using DemoMVC.Services.Restaurants;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DemoMVC.Controllers
 {
+    // [MyFirstFilter]
     public class RestaurantsController : Controller
     {
         private readonly IRestaurantsService restaurantsService;

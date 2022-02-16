@@ -1,0 +1,59 @@
+﻿@page "/counter"
+@inject IRestaurantsService servizio
+
+<h1>Counter</h1>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+
+<button class="btn btn-warning" @onclick="AggiungiRistorante">Aggiunti Ristorante</button>
+
+
+@if(RistoranteCorrente == null)
+{
+    <ListaRistoranti ViewModelRistoranti="ViewModel" OnRimuovi="RimuoviRistorante" TitoloPagina="Lista Ristoranti"/>
+} else
+{
+    <DettaglioRistorante RistoranteCorrente="RistoranteCorrente" OnSalvaForm="SalvaForm" OnAnnulla="Annulla"></DettaglioRistorante>
+}
+
+@code {
+    private int currentCount = 0;
+    private RestaurantsIndexViewModel ViewModel;
+    private RestaurantsListViewModel RistoranteCorrente;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    protected override void OnInitialized()
+    {
+        ViewModel = servizio.GetIndexViewModel();
+    }
+
+    public void RimuoviRistorante(RestaurantsListViewModel ristorante)
+    {
+        ViewModel.Restaurants.Remove(ristorante);
+    }
+
+    public void AggiungiRistorante()
+    {
+        RistoranteCorrente = new RestaurantsListViewModel();
+    }
+
+    public void SalvaForm(RestaurantsListViewModel ristorante)
+    {
+        servizio.AddRestaurant(ristorante);
+        RistoranteCorrente = null;
+        ViewModel = servizio.GetIndexViewModel();
+    }
+
+    public void Annulla()
+    {
+        RistoranteCorrente = null;
+    }
+
+}

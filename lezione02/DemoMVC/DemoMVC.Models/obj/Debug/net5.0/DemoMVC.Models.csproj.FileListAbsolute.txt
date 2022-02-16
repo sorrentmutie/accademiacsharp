@@ -21,4 +21,3 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\bin\Debug\net5.0\DemoMVC.
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\bin\Debug\net5.0\DemoMVC.Models.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\bin\Debug\net5.0\ref\DemoMVC.Models.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\bin\Debug\net5.0\DemoMVC.Models.pdb
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Models\obj\Debug\net5.0\DemoMVC.Models.csproj.AssemblyReference.cache

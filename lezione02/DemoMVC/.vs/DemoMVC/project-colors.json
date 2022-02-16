@@ -15,7 +15,12 @@
       "ProjectGuid": "6e58d373-f27d-4e07-9d4e-bc68097b28aa",
       "DisplayName": "DemoMVC.Services",
       "ColorIndex": 2
+    },
+    "cf18abf6-e133-43f1-8c9a-d75ced0ddbaf": {
+      "ProjectGuid": "cf18abf6-e133-43f1-8c9a-d75ced0ddbaf",
+      "DisplayName": "DemoRazorPage",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

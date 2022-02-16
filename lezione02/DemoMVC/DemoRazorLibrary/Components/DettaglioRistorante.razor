@@ -1,0 +1,36 @@
+﻿<h3>Dettaglio Ristorante @RistoranteCorrente.RestaurantName</h3>
+
+<EditForm Model="RistoranteCorrente" OnValidSubmit="@( () => OnSalvaForm.InvokeAsync(RistoranteCorrente))">
+     <DataAnnotationsValidator/>
+
+     <div class="form-group">
+        <label for="RestaurantName">Nome</label>
+        <InputText for="RestaurantName" @bind-Value="RistoranteCorrente.RestaurantName" class="form-control"/>
+        <ValidationMessage For="@( () => RistoranteCorrente.RestaurantName)" class="text text-danger"></ValidationMessage>
+    </div>
+
+     <div class="form-group">
+        <label for="Address">Indirizzo</label>
+        <InputText for="Address" @bind-Value="RistoranteCorrente.Address" class="form-control"/>
+        <ValidationMessage For="@( () => RistoranteCorrente.Address)" class="text text-danger"></ValidationMessage>
+    </div>
+
+
+
+    <button type="submit" class="btn btn-info">OK</button>
+    <button type="button" @onclick="() => OnAnnulla.InvokeAsync()"  class="btn btn-info">Cancella</button>
+</EditForm>
+
+
+@code {
+
+    [Parameter]
+    public RestaurantsListViewModel RistoranteCorrente { get; set; } = new RestaurantsListViewModel();
+
+    [Parameter]
+    public EventCallback<RestaurantsListViewModel> OnSalvaForm { get; set; }
+
+    [Parameter]
+    public EventCallback OnAnnulla { get; set; }
+
+}

@@ -1,3 +1,4 @@
+using DemoMVC.Filters;
 using DemoMVC.Services.Restaurants;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -24,7 +25,7 @@ namespace DemoMVC
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllersWithViews(opzioni => opzioni.Filters.Add(new MyFirstFilter()));
             services.AddSingleton<IRestaurantsService, StaticRestaurantsService>();
         }
 

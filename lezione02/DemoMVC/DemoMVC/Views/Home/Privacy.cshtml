@@ -4,3 +4,7 @@
 <h1>@ViewData["Title"]</h1>
 
 <p>Use this page to detail your site's privacy policy.</p>
+
+@await Component.InvokeAsync("MyFirst", 42)
+
+<vc:my-first parametro="42"></vc:my-first>

@@ -1,0 +1,46 @@
+﻿<PrimoComponente Intestazione="@ViewModelRistoranti.OpenRestaurants.ToString()"></PrimoComponente>
+
+<h3>@TitoloPagina</h3>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Sedi</th>
+            <th>Recensioni</th>
+            <th>Media recensioni</th>
+            <th>Numero Pietanze</th>
+            <th>Prezzo Medio</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var ristorante in ViewModelRistoranti.Restaurants)
+        {
+            <tr>
+                <td>@ristorante.RestaurantId</td>
+                <td>@ristorante.RestaurantName</td>
+                <td>@ristorante.LocationsCount</td>
+                <td>@ristorante.ReviewsCount</td>
+                <td>@ristorante.AverageRating</td>
+                <td>@ristorante.MenuCount</td>
+                <td>@ristorante.PriceAverge</td>
+                <td><button class="btn btn-danger" @onclick="() => OnRimuovi.InvokeAsync(ristorante) ">Elimina Ristorante</button></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@code {
+    [Parameter]
+    public string TitoloPagina { get; set; } = "Titolo Pagina";
+
+    [Parameter]
+    public RestaurantsIndexViewModel ViewModelRistoranti { get; set; } = new RestaurantsIndexViewModel();
+
+    [Parameter]
+    public EventCallback<RestaurantsListViewModel> OnRimuovi { get; set; }
+
+}

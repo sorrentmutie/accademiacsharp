@@ -10,5 +10,8 @@ namespace DemoMVC.Services.Restaurants
        // List<Restaurant> GetRestaurants();
        // List<RestaurantsListViewModel> GetRestaurantsIndexViewModel();
         RestaurantsIndexViewModel GetIndexViewModel();
+        void AddRestaurant(RestaurantsListViewModel restaurant);
+        RestaurantsListViewModel GetRestaurant(int id);
+        void UpdateRestaurant(RestaurantsListViewModel restaurant);
     }
 }

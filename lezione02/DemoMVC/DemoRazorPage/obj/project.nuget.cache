@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6fZHopzgcvgrQHbr2jVsbX/vHjEC+L1OBXDRSTMBTH+mquY8SJ+f4TTkoaC3nl5w41e/r2pGeWBU+GIUY3gEWQ==",
+  "success": true,
+  "projectFilePath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoRazorPage\\DemoRazorPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
