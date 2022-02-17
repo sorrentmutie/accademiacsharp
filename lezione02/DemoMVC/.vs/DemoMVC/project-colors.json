@@ -20,7 +20,22 @@
       "ProjectGuid": "cf18abf6-e133-43f1-8c9a-d75ced0ddbaf",
       "DisplayName": "DemoRazorPage",
       "ColorIndex": 3
+    },
+    "77bb06a9-432d-485e-b6fc-702744cf65e4": {
+      "ProjectGuid": "77bb06a9-432d-485e-b6fc-702744cf65e4",
+      "DisplayName": "DemoWebAssemblyBlazor",
+      "ColorIndex": 4
+    },
+    "d3b6b13f-1501-4069-b3df-055a6e27f921": {
+      "ProjectGuid": "d3b6b13f-1501-4069-b3df-055a6e27f921",
+      "DisplayName": "DemoRazorLibrary",
+      "ColorIndex": 5
+    },
+    "215a56b7-be82-4f9e-9efa-fab5464506d1": {
+      "ProjectGuid": "215a56b7-be82-4f9e-9efa-fab5464506d1",
+      "DisplayName": "DemoServerBlazor",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }
