@@ -35,7 +35,12 @@
       "ProjectGuid": "215a56b7-be82-4f9e-9efa-fab5464506d1",
       "DisplayName": "DemoServerBlazor",
       "ColorIndex": 6
+    },
+    "4c378bf3-eec5-4d70-ae09-72b4a10d4ab7": {
+      "ProjectGuid": "4c378bf3-eec5-4d70-ae09-72b4a10d4ab7",
+      "DisplayName": "DemoAPI",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

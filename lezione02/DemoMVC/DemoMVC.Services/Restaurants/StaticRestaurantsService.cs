@@ -57,7 +57,14 @@ namespace DemoMVC.Services.Restaurants
         public RestaurantsListViewModel GetRestaurant(int id)
         {
             var restaurant =  restaurants.FirstOrDefault(x => x.Id == id);
-            return new RestaurantsListViewModel { RestaurantName = restaurant.Nome, Address = restaurant.Locations[0].Address.Street };
+            if (restaurant != null)
+            {
+                return new RestaurantsListViewModel { RestaurantName = restaurant.Nome, 
+                    Address = restaurant.Locations != null && restaurant.Locations.Count > 0 ? restaurant.Locations[0].Address.Street : "" };
+            } else
+            {
+                return null;
+            }
         }
 
         public List<Restaurant> GetRestaurants()

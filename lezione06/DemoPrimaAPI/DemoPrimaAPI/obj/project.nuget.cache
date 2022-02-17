@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1mBA2RHUXYrBYqHZTAzhE9yupGMsLlBD+10ac04injjG2qSAK6IkNnwPEsPd1yryEwMeD4WWAY82nnMK9JHag==",
+  "success": true,
+  "projectFilePath": "E:\\corsi\\insiel\\demos\\lezione06\\DemoPrimaAPI\\DemoPrimaAPI\\DemoPrimaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

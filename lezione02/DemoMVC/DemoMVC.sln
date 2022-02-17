@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoMVC.Services", "DemoMVC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoRazorPage", "DemoRazorPage\DemoRazorPage.csproj", "{CF18ABF6-E133-43F1-8C9A-D75CED0DDBAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebAssemblyBlazor", "DemoWebAssemblyBlazor\DemoWebAssemblyBlazor.csproj", "{77BB06A9-432D-485E-B6FC-702744CF65E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoWebAssemblyBlazor", "DemoWebAssemblyBlazor\DemoWebAssemblyBlazor.csproj", "{77BB06A9-432D-485E-B6FC-702744CF65E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRazorLibrary", "DemoRazorLibrary\DemoRazorLibrary.csproj", "{D3B6B13F-1501-4069-B3DF-055A6E27F921}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoRazorLibrary", "DemoRazorLibrary\DemoRazorLibrary.csproj", "{D3B6B13F-1501-4069-B3DF-055A6E27F921}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoServerBlazor", "DemoServerBlazor\DemoServerBlazor.csproj", "{215A56B7-BE82-4F9E-9EFA-FAB5464506D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoServerBlazor", "DemoServerBlazor\DemoServerBlazor.csproj", "{215A56B7-BE82-4F9E-9EFA-FAB5464506D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI", "..\..\lezione06\DemoAPI\DemoAPI.csproj", "{4C378BF3-EEC5-4D70-AE09-72B4A10D4AB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{215A56B7-BE82-4F9E-9EFA-FAB5464506D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{215A56B7-BE82-4F9E-9EFA-FAB5464506D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{215A56B7-BE82-4F9E-9EFA-FAB5464506D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C378BF3-EEC5-4D70-AE09-72B4A10D4AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C378BF3-EEC5-4D70-AE09-72B4A10D4AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C378BF3-EEC5-4D70-AE09-72B4A10D4AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C378BF3-EEC5-4D70-AE09-72B4A10D4AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

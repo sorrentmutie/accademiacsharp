@@ -196,7 +196,7 @@
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
       "DemoMVC.Models.dll": "sha256-7Kaxel6GXas\/fUoleO9dtHqouwan8DMHVG6V+W1q8ZQ=",
-      "DemoMVC.Services.dll": "sha256-lqIz5tvEd6p709AU+kDgotkx7zRz2F8Zlt0\/QF6r\/s8=",
+      "DemoMVC.Services.dll": "sha256-mgXmKh5XSmrVbLB1iiHmLza8do5Tt89rIPO+HxcJLRA=",
       "DemoRazorLibrary.dll": "sha256-g79gFqnsXSHMIZeYDo1GoMD2GJ1km7Mob\/CRMYR35JM=",
       "DemoWebAssemblyBlazor.dll": "sha256-0I3nDxzh1RSJ5G16UrqfhH23WLUCBaKreMGLDsBXV5c="
     },
@@ -205,7 +205,7 @@
     "libraryInitializers": null,
     "pdb": {
       "DemoMVC.Models.pdb": "sha256-TDR4DI\/\/Eih+otOqimpU44+NUEjZKN2sYgRZ24HSPx8=",
-      "DemoMVC.Services.pdb": "sha256-Nj+BqSxiYwgssJoPOA3flB9AkOKVYjRhlHAdg4OekS8=",
+      "DemoMVC.Services.pdb": "sha256-aRciiBOxtrrV1Bf0c+H9v3OmFuajgPDXhr4EyOszfgo=",
       "DemoRazorLibrary.pdb": "sha256-rb1shmgRCycCvKvZq1pDs3KA+MAn7qQVI8ObRYAC204=",
       "DemoWebAssemblyBlazor.pdb": "sha256-JyJ1QMG0gMZXwP5UQwcI0\/OiG0m9N4FMuEAOlM5leys="
     },

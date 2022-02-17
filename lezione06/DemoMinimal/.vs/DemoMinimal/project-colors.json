@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcfc7204-30c1-433b-816a-4f6ced3d7bd0": {
+      "ProjectGuid": "dcfc7204-30c1-433b-816a-4f6ced3d7bd0",
+      "DisplayName": "DemoMinimal",
+      "ColorIndex": 0
+    },
+    "4583d774-4f1b-4fab-8890-402e5d3431b4": {
+      "ProjectGuid": "4583d774-4f1b-4fab-8890-402e5d3431b4",
+      "DisplayName": "DemoMVC.Services",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
