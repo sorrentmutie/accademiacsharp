@@ -29,3 +29,4 @@ E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\DemoAPI.dll
 E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\ref\DemoAPI.dll
 E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\DemoAPI.pdb
 E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\DemoAPI.genruntimeconfig.cache
+E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\DemoAPI.csproj.CopyComplete

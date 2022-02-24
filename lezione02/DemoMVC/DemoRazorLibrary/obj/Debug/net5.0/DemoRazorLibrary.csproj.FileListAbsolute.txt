@@ -45,4 +45,6 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorD
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\UIKit\MyInputText.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\UIKit\MyInputDate.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\UIKit\MyInputDate.razor.g.cs
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.csproj.CopyComplete
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\UIKit\Mappa.razor.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\UIKit\Mappa.razor.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\scopedcss\UIKit\Mappa.razor.rz.scp.css

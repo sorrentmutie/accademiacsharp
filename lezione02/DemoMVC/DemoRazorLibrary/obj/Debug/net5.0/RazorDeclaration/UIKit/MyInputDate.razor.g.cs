@@ -55,6 +55,20 @@ using DemoMVC.Models.ReqRes;
 #line hidden
 #nullable disable
 #nullable restore
+#line 7 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\_Imports.razor"
+using DemoRazorLibrary.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 8 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\_Imports.razor"
+using Microsoft.JSInterop;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 1 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\UIKit\MyInputDate.razor"
 using System.Linq.Expressions;
 

@@ -128,6 +128,13 @@ using DemoRazorLibrary.UIKit;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 18 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
+using DemoRazorLibrary.Models;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {

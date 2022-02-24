@@ -5,7 +5,7 @@
 
 
 
-<MyModal Id="mioId" Title="Titolo della modale" Content="Esempio di contenuto" OnSave="SalvaModale" OnClose="ChiudiModale" >
+<MyModal Id="mioId" Title="Titolo della modale" Content="Esempio di contenuto" OnSave="SalvaModale" OnClose="ChiudiModale">
 </MyModal>
 
 
@@ -17,32 +17,39 @@
 
 <button @onclick="VisualizzaForm" class="btn btn-warning">Crea nuovo utente</button>
 
+<button @onclick="ChiamaCodiceJavascript" class="btn btn-warning">Esegui Javascript</button>
 
-@if(Dati != null && Dati.data != null)
+
+
+@if (Dati != null && Dati.data != null)
 {
-    @foreach(var utente in Dati.data)
+    @foreach (var utente in Dati.data)
     {
         <p>@utente.FirstName @utente.LastName</p>
     }
-} 
+}
 
 
-@if(NuovoUtente != null){
+@if (NuovoUtente != null)
+{
 
     <Dettaglio TItem="ReqResNewUser" Item="NuovoUtente" OnSalva="CreaNuovoUtente" OnAnnulla="Annulla">
         <CampiDelForm>
             <MyInputText Id="Nome" Label="Nome" @bind-Value="NuovoUtente.name"></MyInputText>
             <MyInputText Id="Job" Label="Job" @bind-Value="NuovoUtente.job"></MyInputText>
-            <MyInputDate Id="Date" Label="Birth Date" @bind-Value="NuovoUtente.date"></MyInputDate>
+            @*<MyInputDate Id="Date" Label="Birth Date" @bind-Value="NuovoUtente.date"></MyInputDate>*@
         </CampiDelForm>
     </Dettaglio>
 }
 
 
-@if(Response != null)
+@if (Response != null)
 {
     <p>@Response.name @Response.job @Response.id @Response.createdAt</p>
 }
+
+<Mappa Zoom="16"></Mappa>
+
 
 
 @code {
@@ -94,6 +101,11 @@
     public async Task ApriModale()
     {
         await jsRuntime.InvokeVoidAsync("mostraModale", "mioId");
+    }
+
+    public async Task ChiamaCodiceJavascript()
+    {
+        await jsRuntime.InvokeVoidAsync("chiamaDotNet");
     }
 
 }

@@ -125,6 +125,13 @@ using DemoRazorLibrary.UIKit;
 #line hidden
 #nullable disable
 #nullable restore
+#line 18 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
+using DemoRazorLibrary.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 4 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\Pages\ReqRes.razor"
 using DemoRazorLibrary.Components;
 
@@ -140,7 +147,7 @@ using DemoRazorLibrary.Components;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 48 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\Pages\ReqRes.razor"
+#line 55 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\Pages\ReqRes.razor"
        
 
     public ReqResData Dati { get; set; } = new ReqResData();
@@ -190,6 +197,11 @@ using DemoRazorLibrary.Components;
     public async Task ApriModale()
     {
         await jsRuntime.InvokeVoidAsync("mostraModale", "mioId");
+    }
+
+    public async Task ChiamaCodiceJavascript()
+    {
+        await jsRuntime.InvokeVoidAsync("chiamaDotNet");
     }
 
 

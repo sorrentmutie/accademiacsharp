@@ -1,0 +1,47 @@
+﻿@inject IJSRuntime jsRuntime
+
+
+<div id="map" style="width:@Width; height:@Height" @ref="riferimentoMappa"></div>
+
+@code {
+
+    private ElementReference riferimentoMappa;
+    private async Task MostraMappa()
+    {
+        await jsRuntime.InvokeVoidAsync(
+            "mostraMappa", riferimentoMappa, Zoom, Center);
+    }
+
+    [Parameter]
+    public int Zoom { get; set; } = 12;
+
+    [Parameter]
+    public string Center { get; set; } = "Piazza del Plebiscito, Napoli";
+
+
+    [Parameter]
+    public string Width { get; set; } = "100%";
+
+    [Parameter]
+    public string Height { get; set; } = "400px";
+
+    private bool PrimoRender = true;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            PrimoRender = false;
+            await MostraMappa();
+        }
+    }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (!PrimoRender)
+        {
+            await MostraMappa();
+        }
+    }
+
+}

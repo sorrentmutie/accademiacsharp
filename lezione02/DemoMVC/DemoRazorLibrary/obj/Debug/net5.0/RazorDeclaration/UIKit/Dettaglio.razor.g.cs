@@ -54,6 +54,20 @@ using DemoMVC.Models.ReqRes;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 7 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\_Imports.razor"
+using DemoRazorLibrary.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 8 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\_Imports.razor"
+using Microsoft.JSInterop;
+
+#line default
+#line hidden
+#nullable disable
     public partial class Dettaglio<TItem> : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
