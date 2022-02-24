@@ -26,4 +26,3 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMV
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\ref\DemoMVC.Services.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.pdb
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.csproj.CopyComplete

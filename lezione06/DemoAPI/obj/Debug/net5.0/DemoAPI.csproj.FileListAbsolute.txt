@@ -30,3 +30,7 @@ E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\ref\DemoAPI.dll
 E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\DemoAPI.pdb
 E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\DemoAPI.genruntimeconfig.cache
 E:\corsi\insiel\demos\lezione06\DemoAPI\obj\Debug\net5.0\DemoAPI.csproj.CopyComplete
+E:\corsi\insiel\demos\lezione06\DemoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\corsi\insiel\demos\lezione06\DemoAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\corsi\insiel\demos\lezione06\DemoAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\corsi\insiel\demos\lezione06\DemoAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll

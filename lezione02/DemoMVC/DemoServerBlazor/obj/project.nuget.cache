@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "35X5fOUJOR8kx5OWe5jgr8Db2eVuRQ9QtW+m33R2SK1mG0DhefrfzzZkq5LIdDKLtaSxc6ETYps5OFbVgy+ACw==",
+  "dgSpecHash": "J0J+pJsWhOb+gEg5/OAgpEkilTDLeua39a0UHOTca3E9HKujh/vnae7p9aMxH5pJm6WvTV/D1SgIsP8JeuTOSQ==",
   "success": true,
   "projectFilePath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoServerBlazor\\DemoServerBlazor.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,11 @@
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\5.0.11\\microsoft.aspnetcore.components.forms.5.0.11.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.aspnetcore.components.web\\5.0.11\\microsoft.aspnetcore.components.web.5.0.11.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.11\\microsoft.aspnetcore.metadata.5.0.11.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.14\\microsoft.entityframeworkcore.5.0.14.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.14\\microsoft.entityframeworkcore.abstractions.5.0.14.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.14\\microsoft.entityframeworkcore.analyzers.5.0.14.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
@@ -18,6 +23,9 @@
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.jsinterop\\5.0.11\\microsoft.jsinterop.5.0.11.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],

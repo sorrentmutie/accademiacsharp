@@ -87,3 +87,7 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\ref\DemoMVC.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.pdb
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.genruntimeconfig.cache
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll

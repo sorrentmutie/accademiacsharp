@@ -13,6 +13,10 @@
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ep2UIBFG2zNXHGp7GY9eWSZYOfsff\/RghOOq4kbyK1k=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-xpgWBaazyklL3eELo190s8Jv3JT19PW9aM\/99xTYv\/0=",
       "Microsoft.AspNetCore.Metadata.dll": "sha256-dz1QY4sEbXr3Ei0PsRO3VB4ZTBTRL6t3xgcgXuKFhFo=",
+      "Microsoft.EntityFrameworkCore.dll": "sha256-h20pdxSZcKeqFWoT61rHuWJRgS8p+SMNB7qyaQuwcAE=",
+      "Microsoft.EntityFrameworkCore.Abstractions.dll": "sha256-uRVmLErsXrFcF\/A2if3nJpKjrMpJ+Om\/TSGydWFwRiE=",
+      "Microsoft.Extensions.Caching.Abstractions.dll": "sha256-8F+IGIkGOe\/XwyUAtYBpj9KWlp4ar1LN9ITSjDfuHSQ=",
+      "Microsoft.Extensions.Caching.Memory.dll": "sha256-AkvXroLZ0oSteEJuNkSxIb8fThRQVo0YfufKFdAwQEM=",
       "Microsoft.Extensions.Configuration.dll": "sha256-x9zYR1t1is\/fStNpBiQnXyPdMpLLcQcra3w4RXGSg4o=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-NYecKM0ZpUvzj4spvgi6xUu80rkx8PX7fiRok\/BNaHw=",
       "Microsoft.Extensions.Configuration.Binder.dll": "sha256-JFLIykah3r5WjvztBuVIaMM9wfVswDM+On6k\/QVgeeg=",
@@ -200,18 +204,18 @@
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
       "DemoMVC.Models.dll": "sha256-bBqmbuG\/3St7w\/eHzCeptVcC\/aDuSHHiQG72Llpu4CU=",
-      "DemoMVC.Services.dll": "sha256-u4WW26ZhgY7tnHJpV4HF\/FKh+R9YJfMTEAHRCsx6KGo=",
+      "DemoMVC.Services.dll": "sha256-LfpWmsoG7QGj9oEzO7ONjJ63Lqpp1OMbeU+lMuO\/a\/8=",
       "DemoRazorLibrary.dll": "sha256-qHU9GCM06DMbozCDEmyiLKjK+Vb+aairfpcAnalA5KY=",
-      "DemoWebAssemblyBlazor.dll": "sha256-697KSqFSNG13XXlZeuElD+5tOgXFDFslHe+KyG\/b4DU="
+      "DemoWebAssemblyBlazor.dll": "sha256-TbGkmIOwLlHHupP04vWLzlPZaAhuG55VeNrFUqSgJcQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "DemoMVC.Models.pdb": "sha256-Iv5zuM9p04m\/WPcicuCLYDQRbimBk2Ubclsg\/HcVvxo=",
-      "DemoMVC.Services.pdb": "sha256-bq9qmuweReNYnTweHuxL+M9BJ3r+Frh5WMJ\/2HiT+zQ=",
+      "DemoMVC.Services.pdb": "sha256-QQczOvJWYmOZLZsPykSkge\/CdjCT2hYuLE\/2MQrJz9s=",
       "DemoRazorLibrary.pdb": "sha256-x1Geb3hnuXjgg+i9DUhhuJuYtv8hWZFIfHo0icJHYFc=",
-      "DemoWebAssemblyBlazor.pdb": "sha256-AAOn2HdUzgPt\/VUfydNqyyEakiBsqP\/uUpwuzFfyjUk="
+      "DemoWebAssemblyBlazor.pdb": "sha256-FDAvEkKDDifWoOYF76w1trY+eoaJWb1GZ3tNqIk4hjI="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",

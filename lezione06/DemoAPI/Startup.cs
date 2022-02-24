@@ -1,3 +1,4 @@
+using DemoMVC.Models.Concerti;
 using DemoMVC.Services.Restaurants;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -33,6 +34,9 @@ namespace DemoAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DemoAPI", Version = "v1" });
             });
+
+            services.AddDbContext<BigliettiContext>
+                ()
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -659,3 +659,7 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\D
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\ref\DemoWebAssemblyBlazor.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\DemoWebAssemblyBlazor.pdb
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\DemoWebAssemblyBlazor.csproj.CopyComplete
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\build-gz\e+l1uMZ+.gz
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\build-gz\M5Y7dpeu.gz
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\build-gz\KmpBdFSy.gz
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\build-gz\w7c+YTAo.gz
