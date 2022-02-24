@@ -28,7 +28,10 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\DemoRazor
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\DemoRazorPage.RazorCoreGenerate.cache
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Modifica.cshtml.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Nuovo.cshtml.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Ristoranti.cshtml.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -41,6 +44,3 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\DemoRazor
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\ref\DemoRazorPage.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\DemoRazorPage.pdb
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\DemoRazorPage.genruntimeconfig.cache
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Ristoranti.cshtml.g.cs
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Nuovo.cshtml.g.cs
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorPage\obj\Debug\net5.0\Razor\Pages\Modifica.cshtml.g.cs

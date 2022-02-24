@@ -88,20 +88,34 @@ using DemoMVC.Models.Restaurants;
 #nullable disable
 #nullable restore
 #line 12 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
-using DemoMVC.Services.Restaurants;
+using DemoMVC.Models.ReqRes;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 13 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
-using DemoMVC.Models.Restaurants.ViewModels;
+using DemoMVC.Services.Restaurants;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 14 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
+using DemoMVC.Services.ReqRes;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
+using DemoMVC.Models.Restaurants.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 16 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
 using DemoRazorLibrary.Components;
 
 #line default

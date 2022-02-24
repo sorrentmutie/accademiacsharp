@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JPdcvfivr7lNT0tOzrie3NYXViZs/47cRXcDeXc8TU19BThnJls+KyBRl235S04xyESIA+hExTj2tuKYiRqH7g==",
+  "dgSpecHash": "35X5fOUJOR8kx5OWe5jgr8Db2eVuRQ9QtW+m33R2SK1mG0DhefrfzzZkq5LIdDKLtaSxc6ETYps5OFbVgy+ACw==",
   "success": true,
   "projectFilePath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoServerBlazor\\DemoServerBlazor.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,8 @@
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.11\\microsoft.aspnetcore.metadata.5.0.11.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",

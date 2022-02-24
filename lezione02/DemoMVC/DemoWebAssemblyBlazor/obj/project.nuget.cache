@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s7drsW1VmmE1u2wpG4PGZlO25/69WW8qGnXs32zbVaiSktAMY7uaL2HNkZQytfvDoQ1JbtAxrk4wZiKfl4qTSA==",
+  "dgSpecHash": "TeG/kRf0vMkUcfmb+8w+mTkwec9bn5VYwaNJhod+F+XcPGWhWgiExtnMCZ9ZaX3Z0FzFq5qjpmrYHq/ihG1muw==",
   "success": true,
   "projectFilePath": "E:\\corsi\\insiel\\demos\\lezione02\\DemoMVC\\DemoWebAssemblyBlazor\\DemoWebAssemblyBlazor.csproj",
   "expectedPackageFiles": [
@@ -22,12 +22,16 @@
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.http.polly\\5.0.1\\microsoft.extensions.http.polly.5.0.1.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.jsinterop\\5.0.11\\microsoft.jsinterop.5.0.11.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.11\\microsoft.jsinterop.webassembly.5.0.11.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.13\\microsoft.netcore.app.runtime.browser-wasm.5.0.13.nupkg.sha512"

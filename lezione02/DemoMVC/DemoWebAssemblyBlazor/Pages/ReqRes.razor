@@ -1,0 +1,103 @@
+﻿@page "/reqres"
+@inject IReqResData servizio
+@inject IJSRuntime jsRuntime
+@using DemoRazorLibrary.Components
+
+
+
+<MyModal Id="mioId" Title="Titolo della modale" Content="Esempio di contenuto" OnSave="SalvaModale" OnClose="ChiudiModale" >
+
+</MyModal>
+
+<h3>Pagina dati mock: @Messaggio</h3>
+
+<button @onclick="ApriModale" class="btn btn-danger">Apri Modale </button>
+
+<button @onclick="CancellaRichiesta" class="btn btn-danger">Cancella Richiesta</button>
+
+<button @onclick="VisualizzaForm" class="btn btn-warning">Crea nuovo utente</button>
+
+
+@if(Dati != null && Dati.data != null)
+{
+    @foreach(var utente in Dati.data)
+    {
+        <p>@utente.FirstName @utente.LastName</p>
+    }
+}
+
+
+@if(NuovoUtente != null){
+    <EditForm Model="NuovoUtente" OnValidSubmit="() => CreaNuovoUtente(NuovoUtente)">
+        <div class="form-group">
+            <label for="Name">Nome</label>
+            <InputText id="Name" @bind-Value="NuovoUtente.name" class="form-control"></InputText>
+        </div>
+        <div class="form-group">
+            <label for="Job">Job</label>
+            <InputText id="Job" @bind-Value="NuovoUtente.job" class="form-control"></InputText>
+        </div>
+        <button type="submit" class="btn btn-primary">OK</button>
+        <button type="button" @onclick="Annulla" class="btn btn-primary">Annulla</button>
+    </EditForm>
+}
+
+
+@if(Response != null)
+{
+    <p>@Response.name @Response.job @Response.id @Response.createdAt</p>
+}
+
+
+@code {
+
+    public ReqResData Dati { get; set; } = new ReqResData();
+    public string Messaggio { get; set; } = "";
+    public ReqResResponse Response { get; set; }
+    public ReqResNewUser NuovoUtente { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Dati = await servizio.EstraiDati();
+    }
+
+    public void VisualizzaForm()
+    {
+        NuovoUtente = new ReqResNewUser();
+    }
+
+    public void Annulla()
+    {
+        NuovoUtente = null;
+    }
+
+    public void CancellaRichiesta()
+    {
+        servizio.CancellaRichiesta();
+        Messaggio = "Richiesta Cancellata";
+    }
+
+    public async Task CreaNuovoUtente(ReqResNewUser nuovoUtente)
+    {
+        //var nuovoUtente = new ReqResNewUser { job = "Developer", name = "Mario Rossi" };
+        Response = await servizio.Crea(nuovoUtente);
+        NuovoUtente = null;
+    }
+
+    public async Task SalvaModale()
+    {
+        // Logica per recuperare dati dalla modale
+        await jsRuntime.InvokeVoidAsync("nascondiModale");
+    }
+
+    public async Task ChiudiModale()
+    {
+        await jsRuntime.InvokeVoidAsync("nascondiModale");
+    }
+
+    public async Task ApriModale()
+    {
+        await jsRuntime.InvokeVoidAsync("mostraModale", "mioId");
+    }
+
+}

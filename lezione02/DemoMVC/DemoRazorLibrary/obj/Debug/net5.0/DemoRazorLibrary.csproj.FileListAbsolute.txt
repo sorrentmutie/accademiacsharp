@@ -7,12 +7,15 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\bin\Debug\net5.0\DemoMV
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\bin\Debug\net5.0\DemoMVC.Services.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\bin\Debug\net5.0\DemoMVC.Models.pdb
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\bin\Debug\net5.0\DemoMVC.Services.pdb
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.csproj.AssemblyReference.cache
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.GeneratedMSBuildEditorConfig.editorconfig
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.AssemblyInfoInputs.cache
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.AssemblyInfo.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.csproj.CoreCompileInputs.cache
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.RazorComponent.input.cache
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\Components\DettaglioRistorante.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\Components\ListaRistoranti.razor.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\Components\PrimoComponente.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\Component1.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.RazorComponent.output.cache
@@ -20,7 +23,9 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorD
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.TagHelpers.input.cache
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.TagHelpers.output.cache
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.RazorCoreGenerate.cache
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\Components\DettaglioRistorante.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\Components\ListaRistoranti.razor.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\Components\PrimoComponente.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\Component1.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\scopedcss\Component1.razor.rz.scp.css
@@ -33,8 +38,5 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRa
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\ref\DemoRazorLibrary.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.pdb
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.csproj.AssemblyReference.cache
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\Components\PrimoComponente.razor.g.cs
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\Components\PrimoComponente.razor.g.cs
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\Components\DettaglioRistorante.razor.g.cs
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\Components\DettaglioRistorante.razor.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\Components\MyModal.razor.g.cs
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\Components\MyModal.razor.g.cs

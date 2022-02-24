@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2bed90d-161d-46ca-9052-e3169da36895": {
+      "ProjectGuid": "c2bed90d-161d-46ca-9052-e3169da36895",
+      "DisplayName": "DemoConsole",
+      "ColorIndex": 0
+    },
+    "f37edb9c-382e-4d3a-b715-ac6530d06acc": {
+      "ProjectGuid": "f37edb9c-382e-4d3a-b715-ac6530d06acc",
+      "DisplayName": "DemoMVC.Models",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

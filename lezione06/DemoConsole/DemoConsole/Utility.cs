@@ -1,15 +1,13 @@
-﻿namespace DemoConsole
+﻿namespace DemoConsole;
+
+public  class Utility
 {
-    public  class Utility
+    public Restaurant Restaurant { get; set; } = new Restaurant();
+
+    public Utility()
     {
-        public Restaurant Restaurant { get; set; } = new Restaurant();
-
-
-
-        public Utility()
-        {
-            var lista = new List<Restaurant>();
-            var x = lista.FirstOrDefault(x => x.Id == 1);
-        }
+        var lista = new List<Restaurant>();
+        var x = lista.FirstOrDefault(x => x.Id == 1);
     }
 }
+

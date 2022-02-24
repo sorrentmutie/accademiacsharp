@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoRazorLibrary", "DemoRaz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoServerBlazor", "DemoServerBlazor\DemoServerBlazor.csproj", "{215A56B7-BE82-4F9E-9EFA-FAB5464506D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI", "..\..\lezione06\DemoAPI\DemoAPI.csproj", "{4C378BF3-EEC5-4D70-AE09-72B4A10D4AB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoAPI", "..\..\lezione06\DemoAPI\DemoAPI.csproj", "{4C378BF3-EEC5-4D70-AE09-72B4A10D4AB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
