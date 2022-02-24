@@ -121,6 +121,13 @@ using DemoRazorLibrary.Components;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 17 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
+using DemoRazorLibrary.UIKit;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998

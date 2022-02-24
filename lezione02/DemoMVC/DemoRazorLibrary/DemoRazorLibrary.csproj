@@ -27,7 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Components\MyModal.razor" />
+    <None Include="UIKit\MyModal.razor" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,18 @@
+﻿@typeparam TItem
+
+<EditForm Model="Item" OnValidSubmit="@(() => OnSalva.InvokeAsync(Item))">
+    
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+
+    @CampiDelForm
+
+    <button type="submit" class="btn btn-primary">OK</button>
+    <button type="button" @onclick="OnAnnulla" class="btn btn-primary">Annulla</button>
+</EditForm>
+
+@code {
+    [Parameter] public TItem Item { get; set; }
+    [Parameter] public RenderFragment CampiDelForm { get; set; }
+    [Parameter] public EventCallback<TItem> OnSalva { get; set; }
+    [Parameter] public EventCallback OnAnnulla { get; set; }
+}

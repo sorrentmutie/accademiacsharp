@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace DemoRazorLibrary.Components
+namespace DemoRazorLibrary.UIKit
 {
     #line hidden
     using System;
@@ -47,7 +47,21 @@ using Microsoft.AspNetCore.Components.Forms;
 #line default
 #line hidden
 #nullable disable
-    public partial class MyModal : Microsoft.AspNetCore.Components.ComponentBase
+#nullable restore
+#line 6 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\_Imports.razor"
+using DemoMVC.Models.ReqRes;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 1 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\UIKit\MyInputDate.razor"
+using System.Linq.Expressions;
+
+#line default
+#line hidden
+#nullable disable
+    public partial class MyInputDate : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -55,13 +69,13 @@ using Microsoft.AspNetCore.Components.Forms;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 21 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\Components\MyModal.razor"
+#line 10 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\UIKit\MyInputDate.razor"
        
     [Parameter] public string Id { get; set; }
-    [Parameter] public string Title { get; set; }
-    [Parameter] public string Content { get; set; }
-    [Parameter] public EventCallback OnSave { get; set; }
-    [Parameter] public EventCallback OnClose { get; set; }
+    [Parameter] public string Label { get; set; }
+    [Parameter] public DateTime Value { get; set; }
+    [Parameter] public EventCallback<DateTime> ValueChanged { get; set; }
+    [Parameter] public Expression<Func<DateTime>> ValueExpression { get; set; }
 
 #line default
 #line hidden

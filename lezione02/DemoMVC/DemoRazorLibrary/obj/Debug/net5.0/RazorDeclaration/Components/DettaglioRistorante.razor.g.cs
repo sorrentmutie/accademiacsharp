@@ -47,6 +47,13 @@ using Microsoft.AspNetCore.Components.Forms;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 6 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\_Imports.razor"
+using DemoMVC.Models.ReqRes;
+
+#line default
+#line hidden
+#nullable disable
     public partial class DettaglioRistorante : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

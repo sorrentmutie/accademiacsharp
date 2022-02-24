@@ -6,8 +6,8 @@
 
 
 <MyModal Id="mioId" Title="Titolo della modale" Content="Esempio di contenuto" OnSave="SalvaModale" OnClose="ChiudiModale" >
-
 </MyModal>
+
 
 <h3>Pagina dati mock: @Messaggio</h3>
 
@@ -24,22 +24,18 @@
     {
         <p>@utente.FirstName @utente.LastName</p>
     }
-}
+} 
 
 
 @if(NuovoUtente != null){
-    <EditForm Model="NuovoUtente" OnValidSubmit="() => CreaNuovoUtente(NuovoUtente)">
-        <div class="form-group">
-            <label for="Name">Nome</label>
-            <InputText id="Name" @bind-Value="NuovoUtente.name" class="form-control"></InputText>
-        </div>
-        <div class="form-group">
-            <label for="Job">Job</label>
-            <InputText id="Job" @bind-Value="NuovoUtente.job" class="form-control"></InputText>
-        </div>
-        <button type="submit" class="btn btn-primary">OK</button>
-        <button type="button" @onclick="Annulla" class="btn btn-primary">Annulla</button>
-    </EditForm>
+
+    <Dettaglio TItem="ReqResNewUser" Item="NuovoUtente" OnSalva="CreaNuovoUtente" OnAnnulla="Annulla">
+        <CampiDelForm>
+            <MyInputText Id="Nome" Label="Nome" @bind-Value="NuovoUtente.name"></MyInputText>
+            <MyInputText Id="Job" Label="Job" @bind-Value="NuovoUtente.job"></MyInputText>
+            <MyInputDate Id="Date" Label="Birth Date" @bind-Value="NuovoUtente.date"></MyInputDate>
+        </CampiDelForm>
+    </Dettaglio>
 }
 
 

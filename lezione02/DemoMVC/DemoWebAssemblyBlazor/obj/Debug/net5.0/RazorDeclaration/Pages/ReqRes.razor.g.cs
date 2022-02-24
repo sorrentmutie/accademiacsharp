@@ -118,6 +118,13 @@ using DemoMVC.Models.Restaurants.ViewModels;
 #line hidden
 #nullable disable
 #nullable restore
+#line 17 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\_Imports.razor"
+using DemoRazorLibrary.UIKit;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 4 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\Pages\ReqRes.razor"
 using DemoRazorLibrary.Components;
 
@@ -133,7 +140,7 @@ using DemoRazorLibrary.Components;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 52 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\Pages\ReqRes.razor"
+#line 48 "E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\Pages\ReqRes.razor"
        
 
     public ReqResData Dati { get; set; } = new ReqResData();

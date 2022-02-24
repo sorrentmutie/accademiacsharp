@@ -199,19 +199,19 @@
       "mscorlib.dll": "sha256-0qsbc1acYr3S6P7t9gSYyghOhMVs3CTJ9ukQ1VXqksY=",
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
-      "DemoMVC.Models.dll": "sha256-zityLrNyIQ5X1x4W9fhSpTox4YrR3GhrmlthbEnG0Hw=",
-      "DemoMVC.Services.dll": "sha256-9aaDPREsm5tHOQ5dY7v69o3XrimUzGarRwQhQUfVzlU=",
-      "DemoRazorLibrary.dll": "sha256-0lwzaHecROq6TmJZfnfsyPaXcX8Ciu7o1pkRJDJpTL0=",
-      "DemoWebAssemblyBlazor.dll": "sha256-OmopNrdubjAAxUuy1cK+wOHSeRvzWQOhUqIGmQaFQT8="
+      "DemoMVC.Models.dll": "sha256-bBqmbuG\/3St7w\/eHzCeptVcC\/aDuSHHiQG72Llpu4CU=",
+      "DemoMVC.Services.dll": "sha256-u4WW26ZhgY7tnHJpV4HF\/FKh+R9YJfMTEAHRCsx6KGo=",
+      "DemoRazorLibrary.dll": "sha256-0zawyciygNQGsLWG36HMrF1f9UP1c0m+Uf87eZauABA=",
+      "DemoWebAssemblyBlazor.dll": "sha256-0NNAjmuwTAN+zbZTuS64qS9UFJ\/1pGEHQ\/0rvyOjo1Y="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "DemoMVC.Models.pdb": "sha256-6g5mXibqaF+0ssG+6e7AnzYkl4oSXlZiYfyyCRUy8cI=",
-      "DemoMVC.Services.pdb": "sha256-ViNZnRJLgnuGwNWjWH+GoHpV8Wr78YrVj\/AepMaQjJM=",
-      "DemoRazorLibrary.pdb": "sha256-GeRKVmWHEZKgi3qrMW04J4weC8So0mt7WlqlUCID0Zg=",
-      "DemoWebAssemblyBlazor.pdb": "sha256-Jiyw8N4BnTDSZSMKNU3JdGXLGS196L1a+ljg+y4EfEU="
+      "DemoMVC.Models.pdb": "sha256-Iv5zuM9p04m\/WPcicuCLYDQRbimBk2Ubclsg\/HcVvxo=",
+      "DemoMVC.Services.pdb": "sha256-bq9qmuweReNYnTweHuxL+M9BJ3r+Frh5WMJ\/2HiT+zQ=",
+      "DemoRazorLibrary.pdb": "sha256-Y\/dDxOoURD34RJPj3ZU5ksX2fyjplNeZi4NMtCI7zK8=",
+      "DemoWebAssemblyBlazor.pdb": "sha256-tdqQgjgcqf4lVZQwILdai48Kome7EVbq86tCTeP\/o+Y="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",

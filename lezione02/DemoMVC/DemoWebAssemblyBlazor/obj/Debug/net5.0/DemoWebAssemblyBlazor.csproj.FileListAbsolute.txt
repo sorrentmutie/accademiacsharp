@@ -655,7 +655,7 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\s
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\staticwebassets\DemoWebAssemblyBlazor.StaticWebAssets.Manifest.cache
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\staticwebassets\DemoWebAssemblyBlazor.StaticWebAssets.xml
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\DemoWebAssemblyBlazor.RazorTargetAssemblyInfo.cache
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\DemoWebAssemblyBlazor.csproj.CopyComplete
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\DemoWebAssemblyBlazor.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\ref\DemoWebAssemblyBlazor.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\DemoWebAssemblyBlazor.pdb
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoWebAssemblyBlazor\obj\Debug\net5.0\DemoWebAssemblyBlazor.csproj.CopyComplete

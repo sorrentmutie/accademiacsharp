@@ -23,7 +23,7 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMV
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.AssemblyInfoInputs.cache
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.AssemblyInfo.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.csproj.CoreCompileInputs.cache
-E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.csproj.CopyComplete
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\ref\DemoMVC.Services.dll
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.pdb
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoMVC.Services\obj\Debug\net5.0\DemoMVC.Services.csproj.CopyComplete
