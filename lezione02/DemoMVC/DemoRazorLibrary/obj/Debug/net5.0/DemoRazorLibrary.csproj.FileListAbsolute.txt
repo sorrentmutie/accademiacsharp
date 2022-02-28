@@ -48,3 +48,4 @@ E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\RazorDeclaration\UIKit\Mappa.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\Razor\UIKit\Mappa.razor.g.cs
 E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\scopedcss\UIKit\Mappa.razor.rz.scp.css
+E:\corsi\insiel\demos\lezione02\DemoMVC\DemoRazorLibrary\obj\Debug\net5.0\DemoRazorLibrary.csproj.CopyComplete

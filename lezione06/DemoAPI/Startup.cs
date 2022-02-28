@@ -35,8 +35,13 @@ namespace DemoAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DemoAPI", Version = "v1" });
             });
-            services.AddDbContext<BigliettiContext>
-                (opzioni => opzioni.UseInMemoryDatabase("Concerti"));
+            //services.AddDbContext<BigliettiContext>
+            //    (opzioni => opzioni.UseInMemoryDatabase("Concerti"));
+            var connectionString = "Data Source=(localdb)\\mssqllocaldb; Initial Catalog=DatabaseBiglietti; Integrated Security=SSPI";
+
+            services.AddDbContext<BigliettiContext>(opzioni =>
+                opzioni.UseSqlServer(connectionString, b => b.MigrationsAssembly("DemoMVC.Models")));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
