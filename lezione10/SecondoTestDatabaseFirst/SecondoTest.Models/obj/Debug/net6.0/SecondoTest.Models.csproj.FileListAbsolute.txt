@@ -1,0 +1,12 @@
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\bin\Debug\net6.0\SecondoTest.Models.deps.json
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\bin\Debug\net6.0\SecondoTest.Models.dll
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\bin\Debug\net6.0\ref\SecondoTest.Models.dll
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\bin\Debug\net6.0\SecondoTest.Models.pdb
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\obj\Debug\net6.0\SecondoTest.Models.csproj.AssemblyReference.cache
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\obj\Debug\net6.0\SecondoTest.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\obj\Debug\net6.0\SecondoTest.Models.AssemblyInfoInputs.cache
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\obj\Debug\net6.0\SecondoTest.Models.AssemblyInfo.cs
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\obj\Debug\net6.0\SecondoTest.Models.csproj.CoreCompileInputs.cache
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\obj\Debug\net6.0\SecondoTest.Models.dll
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\obj\Debug\net6.0\ref\SecondoTest.Models.dll
+E:\corsi\insiel\prova\SecondoTestDatabaseFirst\SecondoTest.Models\obj\Debug\net6.0\SecondoTest.Models.pdb
