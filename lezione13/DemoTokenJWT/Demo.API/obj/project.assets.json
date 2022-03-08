@@ -774,6 +774,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "Demo.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Demo.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.Models.dll": {}
+        }
       }
     }
   },
@@ -2098,10 +2108,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Demo.Models/1.0.0": {
+      "type": "project",
+      "path": "../Demo.Models/Demo.Models.csproj",
+      "msbuildProject": "../Demo.Models/Demo.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Demo.Models >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.2",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.2",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.2",
@@ -2120,11 +2136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\corsi\\insiel\\identity\\DemoTokenJWT\\Demo.API\\Demo.API.csproj",
+      "projectUniqueName": "E:\\corsi\\insiel\\demos\\lezione13\\DemoTokenJWT\\Demo.API\\Demo.API.csproj",
       "projectName": "Demo.API",
-      "projectPath": "E:\\corsi\\insiel\\identity\\DemoTokenJWT\\Demo.API\\Demo.API.csproj",
+      "projectPath": "E:\\corsi\\insiel\\demos\\lezione13\\DemoTokenJWT\\Demo.API\\Demo.API.csproj",
       "packagesPath": "C:\\Users\\salvatore\\.nuget\\packages\\",
-      "outputPath": "E:\\corsi\\insiel\\identity\\DemoTokenJWT\\Demo.API\\obj\\",
+      "outputPath": "E:\\corsi\\insiel\\demos\\lezione13\\DemoTokenJWT\\Demo.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2146,7 +2162,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\corsi\\insiel\\demos\\lezione13\\DemoTokenJWT\\Demo.Models\\Demo.Models.csproj": {
+              "projectPath": "E:\\corsi\\insiel\\demos\\lezione13\\DemoTokenJWT\\Demo.Models\\Demo.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

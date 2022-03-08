@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.API", "Demo.API\Demo.API.csproj", "{098AE435-DCFF-40E9-A7D6-58C4399A5C88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.API", "Demo.API\Demo.API.csproj", "{098AE435-DCFF-40E9-A7D6-58C4399A5C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.BlazorWASM", "Demo.BlazorWASM\Demo.BlazorWASM.csproj", "{D5A6B7F4-4779-44E9-A2BC-935EED02DC97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Models", "Demo.Models\Demo.Models.csproj", "{DE4EDCDB-5435-4C3F-8E4D-6658B0F661AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{098AE435-DCFF-40E9-A7D6-58C4399A5C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{098AE435-DCFF-40E9-A7D6-58C4399A5C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{098AE435-DCFF-40E9-A7D6-58C4399A5C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A6B7F4-4779-44E9-A2BC-935EED02DC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A6B7F4-4779-44E9-A2BC-935EED02DC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A6B7F4-4779-44E9-A2BC-935EED02DC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A6B7F4-4779-44E9-A2BC-935EED02DC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4EDCDB-5435-4C3F-8E4D-6658B0F661AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4EDCDB-5435-4C3F-8E4D-6658B0F661AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4EDCDB-5435-4C3F-8E4D-6658B0F661AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4EDCDB-5435-4C3F-8E4D-6658B0F661AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

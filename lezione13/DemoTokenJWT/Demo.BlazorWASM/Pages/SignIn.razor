@@ -1,0 +1,64 @@
+﻿@page "/signin"
+@inject HttpClient httpClient
+@inject ILocalStorageService localStorageService
+@inject AuthenticationStateProvider authenticationStateProvider
+
+
+@if(signedInWithSuccess == false)
+{
+    <EditForm Model="user" OnValidSubmit="SignInUser">
+        <DataAnnotationsValidator/>
+        <div class="form-group">
+            <label for="email">E-mail</label>
+            <InputText @bind-Value="user.Email" id="email" class="form-control"></InputText>
+            <ValidationMessage For="() => user.Email"></ValidationMessage>
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+            <InputText type="password" @bind-Value="user.Password" id="password" class="form-control"></InputText>
+            <ValidationMessage For="() => user.Password"></ValidationMessage>
+        </div>
+        <button class="btn btn-primary" type="submit">OK</button>
+    </EditForm>
+
+
+    
+} else
+{
+    <h4>Sign in successful</h4>
+    <a href="/fetchdata" class="btn btn-primary"  > Fetch data</a>
+}
+
+
+
+
+
+
+@code {
+    private bool signedInWithSuccess = false;
+    private RegisterRequest user = new();
+
+    protected override Task OnInitializedAsync()
+    {
+        signedInWithSuccess = false;
+        return base.OnInitializedAsync();
+    }
+
+
+    private async Task SignInUser()
+    {
+        HttpResponseMessage httpResponseMessage =
+            await httpClient.PostAsJsonAsync("https://localhost:7177/Accounts/Signin", user);
+
+        if(httpResponseMessage.IsSuccessStatusCode)
+        {
+            string jwtToken = await httpResponseMessage.Content.ReadAsStringAsync();
+            await localStorageService.SetItemAsync("bearerToken", jwtToken);
+            
+            await ((AppAuthenticationStateProvider)authenticationStateProvider).SignIn();
+            httpClient.DefaultRequestHeaders.Authorization =
+                new System.Net.Http.Headers.AuthenticationHeaderValue("bearer", jwtToken);
+                signedInWithSuccess = true;
+        }
+    }
+}

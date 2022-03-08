@@ -1,0 +1,11 @@
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\bin\Debug\net6.0\Demo.Models.deps.json
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\bin\Debug\net6.0\Demo.Models.dll
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\bin\Debug\net6.0\ref\Demo.Models.dll
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\bin\Debug\net6.0\Demo.Models.pdb
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\obj\Debug\net6.0\Demo.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\obj\Debug\net6.0\Demo.Models.AssemblyInfoInputs.cache
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\obj\Debug\net6.0\Demo.Models.AssemblyInfo.cs
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\obj\Debug\net6.0\Demo.Models.csproj.CoreCompileInputs.cache
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\obj\Debug\net6.0\Demo.Models.dll
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\obj\Debug\net6.0\ref\Demo.Models.dll
+E:\corsi\insiel\demos\lezione13\DemoTokenJWT\Demo.Models\obj\Debug\net6.0\Demo.Models.pdb

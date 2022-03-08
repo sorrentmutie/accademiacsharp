@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PHN3dwohUp+NjUDA/UxXpnV3pHaLuQeQ9waGZ23ZJayalF0Zam1wAxmx8n+PPYx8zfMHsrkDryEHZ48kgDuy3g==",
+  "dgSpecHash": "CvimAiLZS/L7HmbB3KUD+Pv/bwvMnJj1kDRJp8TJM2kYfCT4Nlf2Wg0bsPIcRiBXQoKzgoLVj6rkyL8e1JBRog==",
   "success": true,
-  "projectFilePath": "E:\\corsi\\insiel\\identity\\DemoTokenJWT\\Demo.API\\Demo.API.csproj",
+  "projectFilePath": "E:\\corsi\\insiel\\demos\\lezione13\\DemoTokenJWT\\Demo.API\\Demo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salvatore\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.2\\microsoft.aspnetcore.authentication.jwtbearer.6.0.2.nupkg.sha512",
