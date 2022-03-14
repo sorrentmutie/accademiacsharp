@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9771a6b1-f8e3-4e13-9604-c24fd20f58fa": {
+      "ProjectGuid": "9771a6b1-f8e3-4e13-9604-c24fd20f58fa",
+      "DisplayName": "LibreriaDaTestare",
+      "ColorIndex": 0
+    },
+    "829e7f62-e9fe-4e3f-b4c2-e39a56b7d2d9": {
+      "ProjectGuid": "829e7f62-e9fe-4e3f-b4c2-e39a56b7d2d9",
+      "DisplayName": "LibreriaDaTestare.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

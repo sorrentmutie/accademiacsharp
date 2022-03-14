@@ -1,0 +1,12 @@
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\bin\Debug\net6.0\LibreriaDaTestare.deps.json
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\bin\Debug\net6.0\LibreriaDaTestare.dll
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\bin\Debug\net6.0\ref\LibreriaDaTestare.dll
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\bin\Debug\net6.0\LibreriaDaTestare.pdb
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\obj\Debug\net6.0\LibreriaDaTestare.csproj.AssemblyReference.cache
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\obj\Debug\net6.0\LibreriaDaTestare.GeneratedMSBuildEditorConfig.editorconfig
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\obj\Debug\net6.0\LibreriaDaTestare.AssemblyInfoInputs.cache
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\obj\Debug\net6.0\LibreriaDaTestare.AssemblyInfo.cs
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\obj\Debug\net6.0\LibreriaDaTestare.csproj.CoreCompileInputs.cache
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\obj\Debug\net6.0\LibreriaDaTestare.dll
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\obj\Debug\net6.0\ref\LibreriaDaTestare.dll
+E:\corsi\insiel\demos\lezione16\LibreriaDaTestare\LibreriaDaTestare\obj\Debug\net6.0\LibreriaDaTestare.pdb
